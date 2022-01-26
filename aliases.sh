@@ -3,9 +3,6 @@
 
 alias ls='ls -F --color=auto --show-control-chars'
 alias ll='ls -l'
-alias ct='cd C:/Repos/CyberTown/cybertown'
-alias pb='cd C:/Repos/Portobello/PortobelloDemo'
-alias sd='cd C:/Repos/Seedling/Seedling'
 alias gf='git fetch --all'
 alias ga='git add .'
 alias gc='git commit -m'
