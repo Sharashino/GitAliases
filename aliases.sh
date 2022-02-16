@@ -15,6 +15,9 @@ alias stash='git stash'
 alias pop='git stash pop'
 alias s='git status'
 alias last='git log -1 HEAD --stat'
+alias bye='git branch -D'
+alias byee='git push origin --delete'
+alias oops='git reset --hard'
 alias tree='git log --pretty=format:\"%C(magenta)%h%Creset -%C(red)%d%Creset %s %C(dim green)(%cr) [%an]\" --abbrev-commit -30'
 
 case "$TERM" in
