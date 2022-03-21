@@ -1,5 +1,5 @@
 # GitAliases
-My aliases I use for my Git terminal
+Aliases I use for my Git terminal
 
 Usage:
 
